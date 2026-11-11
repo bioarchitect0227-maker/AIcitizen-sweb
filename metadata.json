@@ -1,0 +1,6 @@
+{
+  "name": "천안시 시민강사 배움터 (Cheonan AI Citizen Academy)",
+  "description": "AI Education for the better life - 천안시 시민강사 프로필 소개 및 맞춤형 AI 강의 신청 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
